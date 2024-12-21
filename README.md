@@ -8,7 +8,7 @@ A Software Developer specialize in web scraping with Beautiful Soup. Jumped into
 
 ## 💻 Language and Framework 🛠️
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="45" height="45"/>
+<img align="left" alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="45" height="45"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlalchemy/sqlalchemy-original.svg" width="45" height="45"/>
@@ -22,4 +22,4 @@ A Software Developer specialize in web scraping with Beautiful Soup. Jumped into
 
 ## 📰 My article
 1. [Logic and algorithm](https://medium.com/@aprinur7/what-is-logic-and-algorithm-271a93ffb29c)
-2. Pseoudocode --> https://medium.com/@aprinur7/pseudocode-in-algorithm-2c7d6a73ba20
+2. [Pseoudocode](https://medium.com/@aprinur7/pseudocode-in-algorithm-2c7d6a73ba20)
