@@ -16,8 +16,10 @@ A Software Developer specialize in web scraping with Beautiful Soup. Jumped into
 
 ---
 
+
 ### ⏳On process...
-1. 🔎 Mastering web scraping 
+
+1. 🔎 Mastering web scraping and web automation
 
 ---
 
