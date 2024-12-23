@@ -17,13 +17,13 @@ A Software Developer specialize in web scraping with Beautiful Soup. Jumped into
 
 ---
 
-
 ### ⏳On process...
 
-1. 🔎 Mastering web scraping and web automation
+1. 🔎 To become a master on web scraping and web automation
 
 ---
 
 ### 📰 My article
-1. [Logic and algorithm](https://medium.com/@aprinur7/what-is-logic-and-algorithm-271a93ffb29c)
+1. [Logic and Algorithm](https://medium.com/@aprinur7/what-is-logic-and-algorithm-271a93ffb29c)
 2. [Pseoudocode](https://medium.com/@aprinur7/pseudocode-in-algorithm-2c7d6a73ba20)
+3. [Handling Unchaged Url During Scraping](https://medium.com/@aprinur7/how-to-deal-with-unchanged-page-url-during-website-scraping-with-selenium-87ecda46bb4a)
