@@ -1,20 +1,23 @@
 # 👨‍💻 APRI NUR
 
-** Software Developer **
+## ** Software Developer **
 
-A Software Developer specialize in web scraping with Beautiful Soup. Jumped into the world of IT because I see a lot of opportunity in the rapid evolution of existing technology. 
+A Software Developer specialize in web scraping with Beautiful Soup. Jumped into the world of IT because I see a lot of opportunities in the rapid development of existing technology. 
 
 ---
 
 ## 💻 Language and Framework 🛠️
 
 
-<img align="left" alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="35" height="35"/>
-<img align="left" alt="Selenium" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" width="35" height="35"/>
-<img align="left" alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="35" height="35"/> 
-<img align="left" alt="SqlAlchemy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlalchemy/sqlalchemy-original.svg" width="35" height="35"/>
+<img align="left" alt="Python" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="45" height="45"/>
+<img align="left" alt="Selenium" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" width="45" height="45"/>
+<img align="left" alt="Git" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="45" height="45"/> 
+<img align="left" alt="SqlAlchemy" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlalchemy/sqlalchemy-original.svg" width="45" height="45">
 
-<br/>
+<br>
+
+<br>
+<br>
 
 ---
 
