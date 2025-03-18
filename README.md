@@ -1,6 +1,6 @@
 # 👨‍💻 APRI NUR
 
-## ** Python | Web scraping | Data Extraction **
+##  Python | Web scraping | Data Extraction 
 
 A Python programmer specializing in data extraction using tools like Beautiful Soup. Jumped into the world of IT because I see a lot of opportunities in the rapid development of existing technology. 
 
