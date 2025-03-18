@@ -13,10 +13,12 @@ A Python programmer specializing in data extraction using tools like Beautiful S
 <img align="left" alt="Selenium" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" width="45" height="45"/>
 <img align="left" alt="Git" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="45" height="45"/> 
 <img align="left" alt="SqlAlchemy" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlalchemy/sqlalchemy-original.svg" width="45" height="45">
+<img align="left" alt="Pandas" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="45" height="45">
+<img align="left" alt="Scrapy" style="padding-right:10px;" src="https://github.com/user-attachments/assets/9489af83-1b01-4f9e-9677-498fcaf9a50a" width="45" height="45">
 
 <br>
 
-<br>
+
 <br>
 
 ---
