@@ -1,8 +1,8 @@
 # 👨‍💻 APRI NUR
 
-## ** Software Developer **
+## ** Python | Web scraping | Data Extraction **
 
-A Software Developer specialize in web scraping with Beautiful Soup. Jumped into the world of IT because I see a lot of opportunities in the rapid development of existing technology. 
+A Python programmer specializing in data extraction using tools like Beautiful Soup. Jumped into the world of IT because I see a lot of opportunities in the rapid development of existing technology. 
 
 ---
 
@@ -31,5 +31,5 @@ A Software Developer specialize in web scraping with Beautiful Soup. Jumped into
 
 1. [Logic and Algorithm](https://medium.com/@aprinur7/what-is-logic-and-algorithm-271a93ffb29c)
 2. [What Is Pseoudocode](https://medium.com/@aprinur7/pseudocode-in-algorithm-2c7d6a73ba20)
-3. [Handling Unchaged Page Url When Scraping A Website](https://medium.com/@aprinur7/how-to-deal-with-unchanged-page-url-during-website-scraping-with-selenium-87ecda46bb4a)
+3. [Handling Unchaged Page URL When Scraping A Website](https://medium.com/@aprinur7/how-to-deal-with-unchanged-page-url-during-website-scraping-with-selenium-87ecda46bb4a)
 4. [Web Scraping With Selenium](https://medium.com/@aprinur7/web-scraping-with-selenium-part-1-retrieve-url-f7a19d76dffa)
